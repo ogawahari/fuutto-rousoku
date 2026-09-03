@@ -15,7 +15,7 @@
 ここにあるのは**ビルド済みの配信物**。ソースコードは
 `ogawahari/AKAtools` の `apps/candle/`。
 
-`main` への push で `.github/workflows/pages.yml` が GitHub Pages に配信する。
+`main` ブランチのルートを GitHub Pages(Settings > Pages > Deploy from a branch)がそのまま配信する。
 更新するときは AKAtools 側で
 
 ```bash
